@@ -93,8 +93,8 @@ ${answers.contribution}
 ${answers.testing}
 
 ## License
-${answers.license}
-This project is convered under the MIT License.
+
+This project is convered under the ${answers.license}.
 
 ## Questions
 For questions about this project, please see my GitHub at [${answers.github}](https://github.com/${answers.github}), or reach out by email at ${answers.email}.`
