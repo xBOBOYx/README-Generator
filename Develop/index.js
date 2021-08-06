@@ -66,7 +66,7 @@ const questions = () => {
     ]);
 }
 // TODO: Create a function to write README file
-const generateHTML = (answers) =>
+const generateREADME = (answers) =>
 
 `# ${answers.title}
 
@@ -103,7 +103,7 @@ For questions about this project, please see my GitHub at [${answers.github}](ht
 function init() {
 
     questions()
-    .then((answers) => writeFileAsync('README.md', generateHTML(answers)))
+    .then((answers) => writeFileAsync('README.md', generateREADME(answers)))
     .then(() => console.log('Successfully wrote to README.md'))
     .catch((err) => console.error(err));
 };
