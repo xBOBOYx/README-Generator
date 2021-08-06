@@ -2,7 +2,6 @@
 let inquirer = require('inquirer');
 let fs = require('fs');
 const util = require('util');
-
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // TODO: Create an array of questions for user input
@@ -69,7 +68,7 @@ const questions = () => {
 const generateREADME = (answers) =>
 
 `# ${answers.title}
-
+![](https://img.shields.io/badge/${answers.license}%20License-blue?style=flat-square)
 ## Description
 ${answers.description}
 ## Table of Contents
