@@ -29,4 +29,4 @@ This project is convered under the MIT License.
 ## Questions
 For questions about this project, please see my GitHub at [xBOBOYx](https://github.com/xBOBOYx), or reach out by email at boboy.zamora@gmail.com.
 
-![](Video/For-School.mov)
+## [App Video Recording](https://www.youtube.com/watch?v=ekDQ5KdJIOU)
