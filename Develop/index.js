@@ -68,7 +68,7 @@ const questions = () => {
 const generateREADME = (answers) =>
 
 `# ${answers.title}
-![](https://img.shields.io/badge/${answers.license}%20License-blue?style=flat-square)
+![](https://img.shields.io/badge/License-${answers.license},%20-blue?style=flat-square)
 ## Description
 ${answers.description}
 ## Table of Contents

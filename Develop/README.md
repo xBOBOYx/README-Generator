@@ -1,7 +1,7 @@
-# README Generator
-![](https://img.shields.io/badge/MIT License%20License-blue?style=flat-square)
+# Readme Generator
+![](https://img.shields.io/badge/License-MITLicense,%20-blue?style=flat-square)
 ## Description
-This app will let you create a professional You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+This is an app that will generate a read me file for github. You will be asked a series of questions about your project to make a professional read me.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,16 +11,16 @@ This app will let you create a professional You can quickly and easily create a 
 * [Questions](#questions)
 
 ## Installation
-1. Open terminal, enter node index.js, answer all prompts, use readme in your project.
+1. Run app through node js, answer question about project.
 
 ## Usage
-THAT I can quickly create a professional README for a new project
+For professional read me files.
 
 ## Contribution
-Be professional
+Provide professional input
 
 ## Tests
-To test this I ran the app through a series of trial and answered all prompt questions.
+Tested several times by answering all questions then confirming they produces a read me file.
 
 ## License
 
